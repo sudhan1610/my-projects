@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/room_db_activity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Room Database"/>
+
+    <Button
+        android:id="@+id/retrofit_activity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Retrofit Activity"/>
+
+
+
+</LinearLayout>

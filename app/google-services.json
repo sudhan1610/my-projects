@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "818849597702",
+    "firebase_url": "https://roomdatabase-3e53f.firebaseio.com",
+    "project_id": "roomdatabase-3e53f",
+    "storage_bucket": "roomdatabase-3e53f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818849597702:android:0cfc8af5df449803e4f687",
+        "android_client_info": {
+          "package_name": "com.example.rxjavaretrofitroomdb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818849597702-6imigh131llv8s7p2e1422c7lrmkn8a0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUvBZqyGlxAP3v2xrZSzoe6gj-xUT9hIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818849597702-6imigh131llv8s7p2e1422c7lrmkn8a0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
